@@ -1,0 +1,201 @@
+[
+  {
+    "id": "seafood-001",
+    "category": "seafood",
+    "images": [
+      "/images/seafood/shrimp-premium.jpg",
+      "/images/seafood/shrimp-premium-2.jpg"
+    ],
+    "translations": {
+      "fr": {
+        "name": "Crevettes Premium Surgelées",
+        "description": "Crevettes de qualité supérieure, pêchées dans les eaux profondes et surgelées immédiatement pour préserver leur fraîcheur et leur saveur exceptionnelle. Parfaites pour les plats gastronomiques.",
+        "packaging": "Sacs sous vide de 1kg et 2kg",
+        "origin": "Océan Atlantique"
+      },
+      "en": {
+        "name": "Premium Frozen Shrimp",
+        "description": "Premium quality shrimp, caught in deep waters and immediately frozen to preserve their exceptional freshness and flavor. Perfect for gourmet dishes.",
+        "packaging": "Vacuum-packed bags of 1kg and 2kg",
+        "origin": "Atlantic Ocean"
+      },
+      "ar": {
+        "name": "جمبري مجمد فاخر",
+        "description": "جمبري بجودة فاخرة، يتم صيده من المياه العميقة وتجميده فوراً للحفاظ على نضارته ونكهته الاستثنائية. مثالي للأطباق الفاخرة.",
+        "packaging": "أكياس مفرغة من الهواء 1 كجم و 2 كجم",
+        "origin": "المحيط الأطلسي"
+      }
+    },
+    "specs": {
+      "weight": "1kg, 2kg",
+      "temperature": "-18°C",
+      "certifications": ["ONSSA", "ISO 22000"]
+    }
+  },
+  {
+    "id": "seafood-002",
+    "category": "seafood",
+    "images": [
+      "/images/seafood/salmon-fillet.jpg",
+      "/images/seafood/salmon-fillet-2.jpg"
+    ],
+    "translations": {
+      "fr": {
+        "name": "Filets de Saumon Atlantique",
+        "description": "Filets de saumon sauvage de l'Atlantique, riches en oméga-3, découpés avec précision et surgelés à la perfection. Idéal pour les restaurants haut de gamme.",
+        "packaging": "Plateaux de 500g et 1kg",
+        "origin": "Norvège"
+      },
+      "en": {
+        "name": "Atlantic Salmon Fillets",
+        "description": "Wild Atlantic salmon fillets, rich in omega-3, precisely cut and perfectly frozen. Ideal for high-end restaurants.",
+        "packaging": "Trays of 500g and 1kg",
+        "origin": "Norway"
+      },
+      "ar": {
+        "name": "شرائح السلمون الأطلسي",
+        "description": "شرائح سلمون أطلسي بري، غني بأوميغا 3، مقطعة بدقة ومجمدة بشكل مثالي. مثالي للمطاعم الفاخرة.",
+        "packaging": "صواني 500 جم و 1 كجم",
+        "origin": "النرويج"
+      }
+    },
+    "specs": {
+      "weight": "500g, 1kg",
+      "temperature": "-18°C",
+      "certifications": ["ONSSA", "ISO 22000", "MSC"]
+    }
+  },
+  {
+    "id": "vegetables-001",
+    "category": "vegetables",
+    "images": [
+      "/images/vegetables/mixed-vegetables.jpg",
+      "/images/vegetables/mixed-vegetables-2.jpg"
+    ],
+    "translations": {
+      "fr": {
+        "name": "Légumes Mélangés Premium",
+        "description": "Sélection de légumes frais (brocoli, carottes, haricots verts, pois) surgelés à la pointe de la récolte pour conserver toutes leurs vitamines et leur texture croquante.",
+        "packaging": "Sacs de 500g, 1kg et 2.5kg",
+        "origin": "Maroc - Région de Meknès"
+      },
+      "en": {
+        "name": "Premium Mixed Vegetables",
+        "description": "Selection of fresh vegetables (broccoli, carrots, green beans, peas) frozen at the peak of harvest to preserve all their vitamins and crisp texture.",
+        "packaging": "Bags of 500g, 1kg and 2.5kg",
+        "origin": "Morocco - Meknes Region"
+      },
+      "ar": {
+        "name": "خضروات مخلوطة فاخرة",
+        "description": "مجموعة مختارة من الخضروات الطازجة (البروكلي، الجزر، الفاصوليا الخضراء، البازلاء) المجمدة في ذروة الحصاد للحفاظ على جميع الفيتامينات وقوامها المقرمش.",
+        "packaging": "أكياس 500 جم، 1 كجم و 2.5 كجم",
+        "origin": "المغرب - منطقة مكناس"
+      }
+    },
+    "specs": {
+      "weight": "500g, 1kg, 2.5kg",
+      "temperature": "-18°C",
+      "certifications": ["ONSSA", "Bio Certified"]
+    }
+  },
+  {
+    "id": "vegetables-002",
+    "category": "vegetables",
+    "images": [
+      "/images/vegetables/spinach-leaves.jpg",
+      "/images/vegetables/spinach-leaves-2.jpg"
+    ],
+    "translations": {
+      "fr": {
+        "name": "Épinards Frais Surgelés",
+        "description": "Feuilles d'épinards fraîches, lavées et surgelées individuellement (IQF) pour une utilisation facile. Riche en fer et en vitamines.",
+        "packaging": "Sacs de 400g et 1kg",
+        "origin": "Maroc - Région de Souss"
+      },
+      "en": {
+        "name": "Fresh Frozen Spinach",
+        "description": "Fresh spinach leaves, washed and individually quick frozen (IQF) for easy use. Rich in iron and vitamins.",
+        "packaging": "Bags of 400g and 1kg",
+        "origin": "Morocco - Souss Region"
+      },
+      "ar": {
+        "name": "سبانخ طازجة مجمدة",
+        "description": "أوراق السبانخ الطازجة، مغسولة ومجمدة بشكل فردي سريع (IQF) لسهولة الاستخدام. غنية بالحديد والفيتامينات.",
+        "packaging": "أكياس 400 جم و 1 كجم",
+        "origin": "المغرب - منطقة سوس"
+      }
+    },
+    "specs": {
+      "weight": "400g, 1kg",
+      "temperature": "-18°C",
+      "certifications": ["ONSSA"]
+    }
+  },
+  {
+    "id": "meat-001",
+    "category": "meat",
+    "images": [
+      "/images/meat/beef-tenderloin.jpg",
+      "/images/meat/beef-tenderloin-2.jpg"
+    ],
+    "translations": {
+      "fr": {
+        "name": "Filet de Bœuf Premium",
+        "description": "Filet de bœuf de première qualité, découpé par nos maîtres bouchers et surgelé sous vide pour préserver sa tendreté et son goût exceptionnel.",
+        "packaging": "Sous vide, portions de 250g, 500g et 1kg",
+        "origin": "Maroc - Élevage Local Certifié"
+      },
+      "en": {
+        "name": "Premium Beef Tenderloin",
+        "description": "First-class beef tenderloin, cut by our master butchers and vacuum-frozen to preserve its tenderness and exceptional taste.",
+        "packaging": "Vacuum-packed, portions of 250g, 500g and 1kg",
+        "origin": "Morocco - Certified Local Farm"
+      },
+      "ar": {
+        "name": "فيليه لحم بقري فاخر",
+        "description": "فيليه لحم بقري من الدرجة الأولى، مقطوع من قبل جزارينا المهرة ومجمد تحت التفريغ للحفاظ على طراوته وطعمه الاستثنائي.",
+        "packaging": "مفرغ من الهواء، حصص 250 جم، 500 جم و 1 كجم",
+        "origin": "المغرب - مزرعة محلية معتمدة"
+      }
+    },
+    "specs": {
+      "weight": "250g, 500g, 1kg",
+      "temperature": "-18°C",
+      "certifications": ["ONSSA", "Halal Certified"]
+    }
+  },
+  {
+    "id": "meat-002",
+    "category": "meat",
+    "images": [
+      "/images/meat/chicken-breast.jpg",
+      "/images/meat/chicken-breast-2.jpg"
+    ],
+    "translations": {
+      "fr": {
+        "name": "Blancs de Poulet Premium",
+        "description": "Blancs de poulet fermier, sans hormones, surgelés individuellement pour une préparation facile. Source de protéines de haute qualité.",
+        "packaging": "Sous vide, portions de 500g et 1kg",
+        "origin": "Maroc - Élevage Certifié"
+      },
+      "en": {
+        "name": "Premium Chicken Breast",
+        "description": "Farm-raised chicken breast, hormone-free, individually frozen for easy preparation. High-quality protein source.",
+        "packaging": "Vacuum-packed, portions of 500g and 1kg",
+        "origin": "Morocco - Certified Farm"
+      },
+      "ar": {
+        "name": "صدور دجاج فاخرة",
+        "description": "صدور دجاج من المزارع، خالية من الهرمونات، مجمدة بشكل فردي لسهولة التحضير. مصدر بروتين عالي الجودة.",
+        "packaging": "مفرغ من الهواء، حصص 500 جم و 1 كجم",
+        "origin": "المغرب - مزرعة معتمدة"
+      }
+    },
+    "specs": {
+      "weight": "500g, 1kg",
+      "temperature": "-18°C",
+      "certifications": ["ONSSA", "Halal Certified"]
+    }
+  }
+]
+

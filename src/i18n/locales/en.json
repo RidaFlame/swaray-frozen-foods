@@ -1,0 +1,109 @@
+{
+  "nav": {
+    "home": "Home",
+    "catalogue": "Catalogue",
+    "quality": "Quality",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Excellence in Frozen Foods",
+      "subtitle": "Your trusted partner for premium quality frozen products",
+      "cta": "Browse Catalogue"
+    },
+    "values": {
+      "badge": "Our Commitments",
+      "title": "Why Choose Us",
+      "subtitle": "Excellence, quality and impeccable service",
+      "hygiene": {
+        "title": "Hygiene Certified",
+        "description": "Strict food safety standards and international certifications"
+      },
+      "sourcing": {
+        "title": "Premium Sourcing",
+        "description": "Rigorous selection of the best products from reliable sources"
+      },
+      "delivery": {
+        "title": "Fast Delivery",
+        "description": "Preserved cold chain to guarantee freshness"
+      }
+    },
+    "featured": {
+      "title": "Featured Products",
+      "subtitle": "Discover our selection of premium products",
+      "viewDetails": "View Details"
+    },
+    "cta": {
+      "title": "Ready to order?",
+      "subtitle": "Contact us for a personalized quote",
+      "button": "Contact Us"
+    }
+  },
+  "catalogue": {
+    "title": "Our Catalogue",
+    "subtitle": "Discover our complete range of premium frozen products",
+    "all": "All",
+    "seafood": "Seafood",
+    "vegetables": "Vegetables",
+    "meat": "Meat",
+    "viewDetails": "View Details",
+    "noProducts": "No products found"
+  },
+  "product": {
+    "back": "Back",
+    "description": "Description",
+    "packaging": "Packaging",
+    "origin": "Origin",
+    "storage": "Storage Temperature",
+    "certifications": "Certifications",
+    "requestQuote": "Request Quote via Email",
+    "orderWhatsApp": "Order on WhatsApp"
+  },
+  "quality": {
+    "title": "Quality & Certifications",
+    "subtitle": "Our commitment to excellence and quality",
+    "hygiene": {
+      "title": "Hygiene Standards",
+      "description": "We adhere to the strictest standards in food safety and hygiene."
+    },
+    "coldChain": {
+      "title": "Cold Chain",
+      "description": "Our logistics system maintains a constant temperature of -18°C throughout the process."
+    },
+    "certifications": {
+      "title": "Certifications",
+      "description": "Our products are certified ONSSA and ISO 22000, guaranteeing quality and safety.",
+      "onssa": "Certified",
+      "iso": "Food Safety",
+      "halal": "Certified"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "info": {
+      "title": "Contact Information",
+      "phone": "Phone",
+      "address": "Address",
+      "email": "Email"
+    },
+    "form": {
+      "title": "Quote Request",
+      "name": "Full Name",
+      "company": "Company Name (optional)",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Request",
+      "success": "Quote request sent successfully!",
+      "error": "An error occurred. Please try again."
+    }
+  },
+  "footer": {
+    "about": "About",
+    "aboutText": "Excellence in frozen products. Your trusted partner for premium quality products for professionals and individuals.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "rights": "All rights reserved"
+  }
+}
+

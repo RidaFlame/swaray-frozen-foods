@@ -1,0 +1,109 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "catalogue": "Catalogue",
+    "quality": "Qualité",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Excellence en Produits Surgelés",
+      "subtitle": "Votre partenaire de confiance pour des produits surgelés de qualité supérieure",
+      "cta": "Parcourir le Catalogue"
+    },
+    "values": {
+      "badge": "Nos Engagements",
+      "title": "Pourquoi Nous Choisir",
+      "subtitle": "Excellence, qualité et service irréprochable",
+      "hygiene": {
+        "title": "Certifié Hygiène",
+        "description": "Normes strictes de sécurité alimentaire et certifications internationales"
+      },
+      "sourcing": {
+        "title": "Approvisionnement Premium",
+        "description": "Sélection rigoureuse des meilleurs produits de sources fiables"
+      },
+      "delivery": {
+        "title": "Livraison Rapide",
+        "description": "Chaîne du froid préservée pour garantir la fraîcheur"
+      }
+    },
+    "featured": {
+      "title": "Produits Phares",
+      "subtitle": "Découvrez notre sélection de produits premium",
+      "viewDetails": "Voir les Détails"
+    },
+    "cta": {
+      "title": "Prêt à commander ?",
+      "subtitle": "Contactez-nous pour obtenir un devis personnalisé",
+      "button": "Nous Contacter"
+    }
+  },
+  "catalogue": {
+    "title": "Notre Catalogue",
+    "subtitle": "Découvrez notre gamme complète de produits surgelés premium",
+    "all": "Tous",
+    "seafood": "Fruits de Mer",
+    "vegetables": "Légumes",
+    "meat": "Viande",
+    "viewDetails": "Voir les Détails",
+    "noProducts": "Aucun produit trouvé"
+  },
+  "product": {
+    "back": "Retour",
+    "description": "Description",
+    "packaging": "Emballage",
+    "origin": "Origine",
+    "storage": "Température de Stockage",
+    "certifications": "Certifications",
+    "requestQuote": "Demander un Devis par Email",
+    "orderWhatsApp": "Commander sur WhatsApp"
+  },
+  "quality": {
+    "title": "Qualité & Certifications",
+    "subtitle": "Notre engagement envers l'excellence et la qualité",
+    "hygiene": {
+      "title": "Normes d'Hygiène",
+      "description": "Nous respectons les normes les plus strictes en matière de sécurité alimentaire et d'hygiène."
+    },
+    "coldChain": {
+      "title": "Chaîne du Froid",
+      "description": "Notre système de logistique maintient une température constante de -18°C tout au long du processus."
+    },
+    "certifications": {
+      "title": "Certifications",
+      "description": "Nos produits sont certifiés ONSSA et ISO 22000, garantissant la qualité et la sécurité.",
+      "onssa": "Certifié",
+      "iso": "Sécurité Alimentaire",
+      "halal": "Certifié"
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "info": {
+      "title": "Informations de Contact",
+      "phone": "Téléphone",
+      "address": "Adresse",
+      "email": "Email"
+    },
+    "form": {
+      "title": "Demande de Devis",
+      "name": "Nom complet",
+      "company": "Nom de l'entreprise (optionnel)",
+      "phone": "Téléphone",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Envoyer la Demande",
+      "success": "Demande de devis envoyée avec succès !",
+      "error": "Une erreur s'est produite. Veuillez réessayer."
+    }
+  },
+  "footer": {
+    "about": "À Propos",
+    "aboutText": "Excellence en produits surgelés. Votre partenaire de confiance pour des produits de qualité supérieure destinés aux professionnels et particuliers.",
+    "quickLinks": "Liens Rapides",
+    "contact": "Contact",
+    "rights": "Tous droits réservés"
+  }
+}
+
