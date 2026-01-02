@@ -1,109 +1,125 @@
-# Swaray - Premium Frozen Foods Website
+# Swaray - Premium Frozen Foods Showcase Website
 
-A premium static showcase website for a frozen food company built with React, Vite, and Tailwind CSS.
+A premium, modern static showcase website for a frozen food company built with React, Vite, and Tailwind CSS. Features multilingual support (French, English, Arabic) with RTL support for Arabic.
 
-## Features
+## 🚀 Features
 
-- 🌍 **Multilingual Support**: French (default), English, and Arabic with RTL support
-- 🎨 **Premium Design**: Clean, modern UI with custom color scheme
-- 📱 **Responsive**: Fully responsive design for all devices
-- 🛍️ **Product Catalog**: Browse products by category (Seafood, Vegetables, Meat)
-- 📧 **Contact Form**: EmailJS integration for quote requests
-- 💬 **WhatsApp Integration**: Direct WhatsApp contact button
-- ✨ **Animations**: Smooth animations using Framer Motion
+- **Premium Design**: Modern, clean, and appetizing UI with smooth animations
+- **Multilingual Support**: French, English, and Arabic with proper RTL layout
+- **Responsive Design**: Mobile-first approach, works on all devices
+- **Product Catalog**: Browse frozen food products (Seafood, Vegetables, Meat)
+- **Contact Forms**: EmailJS integration for quote requests
+- **WhatsApp Integration**: Direct ordering via WhatsApp
+- **Quality & Certifications**: Showcase company certifications and quality standards
+- **Smooth Animations**: Framer Motion for engaging user experience
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **React 18** - UI Framework
-- **Vite** - Build tool
+- **Vite** - Build Tool
 - **Tailwind CSS** - Styling
-- **React Router v6** - Routing
+- **React Router DOM** - Routing
 - **Framer Motion** - Animations
 - **React i18next** - Internationalization
-- **EmailJS** - Email service
 - **Lucide React** - Icons
+- **EmailJS** - Email Service
 
-## Project Structure
+## 📦 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/swaray-frozen-foods.git
+cd swaray-frozen-foods
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
+
+4. Open your browser and visit `http://localhost:5173`
+
+## 🏗️ Build for Production
+
+```bash
+npm run build
+```
+
+The production-ready files will be in the `dist` folder.
+
+## 📝 Configuration
+
+### EmailJS Setup
+
+1. Sign up at [EmailJS](https://www.emailjs.com/)
+2. Create a service and template
+3. Update the credentials in `src/pages/Contact.jsx`:
+   - `serviceId`: Your EmailJS service ID
+   - `templateId`: Your EmailJS template ID
+   - `publicKey`: Your EmailJS public key
+
+See `EMAILJS_SETUP.md` for detailed instructions.
+
+## 🌐 Languages
+
+- **French (fr)** - Default language
+- **English (en)**
+- **Arabic (ar)** - With RTL support
+
+Translations are located in `src/i18n/locales/`
+
+## 📁 Project Structure
 
 ```
-swaray-website/
+swaray-frozen-foods/
 ├── src/
-│   ├── components/       # Reusable components
+│   ├── components/      # Reusable components
 │   │   ├── Navbar.jsx
 │   │   ├── Footer.jsx
-│   │   ├── WhatsAppButton.jsx
-│   │   └── ProductCard.jsx
-│   ├── pages/            # Page components
+│   │   ├── ProductCard.jsx
+│   │   └── WhatsAppButton.jsx
+│   ├── pages/          # Page components
 │   │   ├── Home.jsx
 │   │   ├── Catalogue.jsx
 │   │   ├── ProductDetails.jsx
 │   │   ├── Quality.jsx
 │   │   └── Contact.jsx
-│   ├── data/             # Data files
+│   ├── data/          # Data files
 │   │   └── products.json
-│   ├── i18n/             # Internationalization
+│   ├── i18n/          # Internationalization
 │   │   ├── config.js
 │   │   └── locales/
-│   │       ├── fr.json
-│   │       ├── en.json
-│   │       └── ar.json
-│   ├── App.jsx           # Main app component
-│   ├── main.jsx          # Entry point
-│   └── index.css        # Global styles
+│   ├── hooks/         # Custom hooks
+│   ├── App.jsx        # Main app component
+│   ├── main.jsx       # Entry point
+│   └── index.css      # Global styles
+├── public/            # Static assets
 ├── package.json
-├── vite.config.js
-├── tailwind.config.js
-└── README.md
+└── vite.config.js
 ```
 
-## Installation
+## 🎨 Design System
 
-1. Install dependencies:
-```bash
-npm install
-```
+- **Primary Color**: `#5f3a47`
+- **Secondary Color**: `#494539`
+- **Tertiary Color**: `#f4dabc`
+- **Heading Font**: Montserrat
+- **Body Font**: Lato
+- **Arabic Font**: Cairo
 
-2. Start development server:
-```bash
-npm run dev
-```
+## 📄 License
 
-3. Build for production:
-```bash
-npm run build
-```
+This project is private and proprietary.
 
-## EmailJS Setup
+## 👤 Contact
 
-To enable the contact form, you need to configure EmailJS:
+For questions or support, please contact the project owner.
 
-1. Sign up at [EmailJS](https://www.emailjs.com/)
-2. Create a service and template
-3. Update the following in `src/pages/Contact.jsx`:
-   - `serviceId`: Your EmailJS service ID
-   - `templateId`: Your EmailJS template ID
-   - `publicKey`: Your EmailJS public key
+---
 
-The form will send emails to: `ririda6680@gmail.com`
-
-## Color Scheme
-
-- **Primary**: `#5f3a47` (Deep Maroon/Burgundy)
-- **Secondary**: `#494539` (Dark Olive/Charcoal)
-- **Tertiary**: `#f4dabc` (Cream/Beige)
-
-## Typography
-
-- **Headings**: Montserrat
-- **Body**: Lato
-
-## Contact Information
-
-- **Phone**: +212 637 102 373
-- **Email**: ririda6680@gmail.com
-- **WhatsApp**: [Click to chat](https://wa.me/212637102373)
-
-## License
-
-All rights reserved © 2024 Swaray
-
+Built with ❤️ for Swaray Frozen Foods
